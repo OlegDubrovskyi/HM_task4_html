@@ -1,0 +1,31 @@
+
+.first{
+	background-color: orange;
+	color: white;
+	height: 30px;
+	font-size: 22px;
+}
+
+.title1{
+	text-indent: 1.5em;
+}
+
+.second{
+	background-color:  #000000;
+}
+
+ .part1{
+	color:#FFDEAD;
+}
+
+.part2{
+	color:#4682B4;
+}
+
+.part3{
+	color: #A52A2A;
+}
+
+.part4{
+	color: white;
+}

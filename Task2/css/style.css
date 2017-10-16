@@ -1,0 +1,19 @@
+
+div{
+	text-align: right;
+}
+.part1{
+	color: #A52A2A;
+	text-transform: uppercase;
+	line-height: 50px;
+}
+
+.first{
+	height: 100%;
+	width: 100%;
+	background-color: #FFFAFA;
+}
+
+.part2{
+	line-height: 30px;
+}
